@@ -1,7 +1,3 @@
-
-import main.Action;
-import main.Cat;
-
 public class Main {
 
     public static void main(String[] args) {
